@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758398</millis>
+        <sequence>0</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>Before ....Wed Dec 07 20:35:58 WEST 2022</message>
+    </record>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758404</millis>
+        <sequence>1</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>After .... Wed Dec 07 20:35:58 WEST 2022</message>
+    </record>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758404</millis>
+        <sequence>2</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>Execution Duration : 6</message>
+    </record>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758405</millis>
+        <sequence>3</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>Before ....Wed Dec 07 20:35:58 WEST 2022</message>
+    </record>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758411</millis>
+        <sequence>4</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>After .... Wed Dec 07 20:35:58 WEST 2022</message>
+    </record>
+    <record>
+        <date>2022-12-07T20:35:58</date>
+        <millis>1670441758411</millis>
+        <sequence>5</sequence>
+        <logger>aspects.LoggingAspect</logger>
+        <level>INFO</level>
+        <class>springAOP.aspects.LogAspect</class>
+        <method>log</method>
+        <thread>1</thread>
+        <message>Execution Duration : 6</message>
+    </record>
+</log>
